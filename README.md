@@ -1,2 +1,3 @@
-# design-patterns
-Practice code for Head First Design Patterns Book
+# Design Patterns
+
+Repository with code examples included in the book Head First Design Patterns
